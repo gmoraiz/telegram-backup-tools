@@ -1,0 +1,19 @@
+{
+  "name": "telegram-backup-tools",
+  "version": "1.0.0",
+  "description": "Ferramentas que auxiliam no backup e manipulação de mensagens do telegram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmoraiz/telegram-backup-tools.git"
+  },
+  "author": "Gabriel Morais Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmoraiz/telegram-backup-tools/issues"
+  },
+  "homepage": "https://github.com/gmoraiz/telegram-backup-tools#readme"
+}
